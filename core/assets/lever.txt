@@ -1,0 +1,61 @@
+lever.png
+size: 912, 58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lever1
+  rotate: false
+  xy: 1, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+Lever2
+  rotate: false
+  xy: 115, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+Lever3
+  rotate: false
+  xy: 229, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+Lever4
+  rotate: false
+  xy: 343, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+Lever5
+  rotate: false
+  xy: 457, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+Lever6
+  rotate: false
+  xy: 571, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+Lever7
+  rotate: false
+  xy: 685, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+Lever8
+  rotate: false
+  xy: 799, 1
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1

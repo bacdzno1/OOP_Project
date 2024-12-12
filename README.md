@@ -1,33 +1,24 @@
 # This Is The Only Level
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+Game được làm bằng Java, sử dụng LibGDX.
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+## Tóm tắt game
+Nếu bạn là thể loại người thích chơi game giải đố kiêm vượt chướng ngại vật (Puzzle-Platformer) thì game này rất phù hợp với bạn.
 
-## Platforms
+Game này tuy chỉ có một màn (level) nhưng lại có rất nhiều biến thể. Hãy tưởng tượng là bạn bị tra tấn và làm đi làm lại một thứ gì đó mà mỗi lần làm lại thì nó lại một khác.
 
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
+Tổng cộng là có 21 biến thể nhưng tính ra cũng dễ thôi. Hãy nhớ đọc tên màn để biết bạn phải làm gì.
 
-## Gradle
+Di chuyển bằng phím trái-phải-trên-dưới (mũi tên). Sẽ có màn đảo, nhưng chắc là có một màn thôi, nên yên tâm.
 
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
+## Cách để mở game này
+Từ source code tải trên trang GitHub này:
 
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
+Bước 1: Sử dụng trình chỉnh sửa code IntelliJ.
 
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+Bước 2: Chọn tệp Lwjgl3Launcher.java. Nó sẽ trông như thế này.
+
+![image](https://github.com/user-attachments/assets/7260573c-fb3d-40bc-9295-3a0df6d8e3f9)
+
+Bước 3: Vào chơi thôi
+

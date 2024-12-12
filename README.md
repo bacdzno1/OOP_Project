@@ -20,5 +20,8 @@ Bước 2: Chọn tệp Lwjgl3Launcher.java. Nó sẽ trông như thế này.
 
 ![image](https://github.com/user-attachments/assets/7260573c-fb3d-40bc-9295-3a0df6d8e3f9)
 
-Bước 3: Vào chơi thôi
+Bước 3: Chạy tệp này. Cách đơn giản nhất là ấn vào nút Play ở góc trên bên phải màn hình (thấy cái nút hình tam giác chứ?).
 
+Bước 4: Vào chơi thôi.
+
+### Hãy vui vẻ =))
